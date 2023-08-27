@@ -3,7 +3,7 @@ const endereco = {
     numero: 235,
     complemento: "terreo",
     bairro: "Chique-Chique",
-    cep: 42342456,
+    cep: 423424567,
     cidade: "Sarapatel",
     estado: "Bahia",
     pais: "Brasil"
